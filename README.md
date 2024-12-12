@@ -8,7 +8,7 @@ This project demonstrates a functional webpage built with **HTML** & **CSS**, an
 
 1. **Implementation:**
    - Static version: HTML & CSS.
-   - Functional version: React.js (Next.js) or Angular.js/Vue.js (Nuxt.js).
+   - Functional version: React.js 
 
 2. **Server-Side Rendering (SSR):**
    - Leveraging Next.js/Nuxt.js for SSR for better performance and SEO.
